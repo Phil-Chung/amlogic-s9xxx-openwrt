@@ -259,7 +259,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - freebird
 
 env:
   TZ: Etc/UTC
